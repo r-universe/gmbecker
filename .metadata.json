@@ -1,0 +1,18 @@
+[
+  {
+    "package": "GRANBase",
+    "oncran": true
+  },
+  {
+    "package": "GRANCore",
+    "oncran": true
+  },
+  {
+    "package": "switchr",
+    "oncran": true
+  },
+  {
+    "package": "switchrGist",
+    "oncran": true
+  }
+]
