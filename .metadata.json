@@ -1,9 +1,5 @@
 [
   {
-    "package": "GRANBase",
-    "oncran": true
-  },
-  {
     "package": "GRANCore",
     "oncran": true
   },
