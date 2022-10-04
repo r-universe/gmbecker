@@ -13,6 +13,11 @@
 	url = https://github.com/gmbecker/grancore
 	shallow = true
 	registered = true
+[submodule "SearchTrees"]
+	path = SearchTrees
+	url = https://github.com/gmbecker/searchtrees
+	shallow = true
+	registered = true
 [submodule "switchr"]
 	path = switchr
 	url = https://github.com/gmbecker/switchr
