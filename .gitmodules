@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SearchTrees"]
+	path = SearchTrees
+	url = https://github.com/gmbecker/searchtrees
+	shallow = true
+	registered = true
 [submodule "GRANBase"]
 	path = GRANBase
 	url = https://github.com/gmbecker/gran
@@ -11,11 +16,6 @@
 [submodule "GRANCore"]
 	path = GRANCore
 	url = https://github.com/gmbecker/grancore
-	shallow = true
-	registered = true
-[submodule "SearchTrees"]
-	path = SearchTrees
-	url = https://github.com/gmbecker/searchtrees
 	shallow = true
 	registered = true
 [submodule "switchr"]
