@@ -6,6 +6,10 @@
     "package": "GRANCore"
   },
   {
+    "package": "roprov",
+    "oncran": true
+  },
+  {
     "package": "SearchTrees",
     "oncran": true
   },
