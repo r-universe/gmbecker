@@ -8,23 +8,23 @@
 	url = https://github.com/gmbecker/gran
 	shallow = true
 	registered = true
-[submodule "SearchTrees"]
-	path = SearchTrees
-	url = https://github.com/gmbecker/searchtrees
-	shallow = true
-	registered = true
 [submodule "GRANCore"]
 	path = GRANCore
 	url = https://github.com/gmbecker/grancore
 	shallow = true
 	registered = true
-[submodule "switchrGist"]
-	path = switchrGist
-	url = https://github.com/gmbecker/switchrgist
+[submodule "SearchTrees"]
+	path = SearchTrees
+	url = https://github.com/gmbecker/searchtrees
 	shallow = true
 	registered = true
 [submodule "switchr"]
 	path = switchr
 	url = https://github.com/gmbecker/switchr
+	shallow = true
+	registered = true
+[submodule "switchrGist"]
+	path = switchrGist
+	url = https://github.com/gmbecker/switchrgist
 	shallow = true
 	registered = true

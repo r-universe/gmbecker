@@ -3,16 +3,16 @@
     "package": "GRANBase"
   },
   {
+    "package": "GRANCore"
+  },
+  {
     "package": "SearchTrees",
     "oncran": true
   },
   {
-    "package": "GRANCore"
+    "package": "switchr"
   },
   {
     "package": "switchrGist"
-  },
-  {
-    "package": "switchr"
   }
 ]
