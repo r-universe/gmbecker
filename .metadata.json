@@ -1,18 +1,18 @@
 [
   {
-    "package": "SearchTrees",
-    "oncran": true
+    "package": "GRANBase"
   },
   {
-    "package": "GRANBase"
+    "package": "SearchTrees",
+    "oncran": true
   },
   {
     "package": "GRANCore"
   },
   {
-    "package": "switchr"
+    "package": "switchrGist"
   },
   {
-    "package": "switchrGist"
+    "package": "switchr"
   }
 ]
