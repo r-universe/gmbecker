@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GRANBase"]
-	path = GRANBase
-	url = https://github.com/gmbecker/gran
-	shallow = true
-	registered = true
-[submodule "GRANCore"]
-	path = GRANCore
-	url = https://github.com/gmbecker/grancore
-	shallow = true
-	registered = true
 [submodule "histry"]
 	path = histry
 	url = https://github.com/cran/histry
@@ -31,10 +21,5 @@
 [submodule "switchr"]
 	path = switchr
 	url = https://github.com/gmbecker/switchr
-	shallow = true
-	registered = true
-[submodule "switchrGist"]
-	path = switchrGist
-	url = https://github.com/gmbecker/switchrgist
 	shallow = true
 	registered = true
