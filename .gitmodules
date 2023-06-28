@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "histry"]
 	path = histry
 	url = https://github.com/cran/histry
-	shallow = true
-	registered = true
 [submodule "roprov"]
 	path = roprov
 	url = https://github.com/gmbecker/roprov
-	shallow = true
-	registered = true
 [submodule "SearchTrees"]
 	path = SearchTrees
 	url = https://github.com/gmbecker/searchtrees
-	shallow = true
-	registered = true
 [submodule "switchr"]
 	path = switchr
 	url = https://github.com/gmbecker/switchr
-	shallow = true
-	registered = true
