@@ -5,6 +5,9 @@
 [submodule "SearchTrees"]
 	path = SearchTrees
 	url = https://github.com/gmbecker/searchtrees
+[submodule "fastdigest"]
+	path = fastdigest
+	url = https://github.com/cran/fastdigest
 [submodule "histry"]
 	path = histry
 	url = https://github.com/cran/histry
