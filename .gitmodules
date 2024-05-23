@@ -8,12 +8,6 @@
 [submodule "fastdigest"]
 	path = fastdigest
 	url = https://github.com/cran/fastdigest
-[submodule "histry"]
-	path = histry
-	url = https://github.com/cran/histry
-[submodule "roprov"]
-	path = roprov
-	url = https://github.com/gmbecker/roprov
 [submodule "switchr"]
 	path = switchr
 	url = https://github.com/gmbecker/switchr
